@@ -1,4 +1,4 @@
-SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
+SPSGP-62060--Virtual-Internship---Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
@@ -14,7 +14,7 @@ Although I'm making a lot of effort to fix the flaws, the Maps part of the app i
 
 - 
 
-![](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/banner.png)
+![](https://github.com/smartinternz02/SPSGP-62060-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/banner.png)
 
 Preview / Screenshots
 ------------
